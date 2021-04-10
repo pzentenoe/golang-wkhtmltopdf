@@ -1,4 +1,7 @@
-### golang-wkhtmltopdf
+## golang-wkhtmltopdf
+
+### Resume
+Based in ubuntu 20.04 and golang 1.16.3
 
 #### create image
 ````docker
